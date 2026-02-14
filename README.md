@@ -1,2 +1,2 @@
 # Calculator-in-Python
-Author- Harshit Porwal
+Author- The Harshit Porwal
